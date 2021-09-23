@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\bin\Debug\00_intro.exe.config
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\bin\Debug\00_intro.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\bin\Debug\00_intro.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\obj\Debug\00_intro.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\obj\Debug\00_intro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\obj\Debug\00_intro.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\CSharpFundementals\CSharpFundementals\00_intro\obj\Debug\00_intro.pdb
