@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\04_IfElseStatements.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\04_IfElseStatements.deps.json
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\04_IfElseStatements.runtimeconfig.json
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\04_IfElseStatements.runtimeconfig.dev.json
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\04_IfElseStatements.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\ref\04_IfElseStatements.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\bin\Debug\net5.0\04_IfElseStatements.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.AssemblyInfo.cs
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\ref\04_IfElseStatements.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_IfElseStatements\obj\Debug\net5.0\04_IfElseStatements.genruntimeconfig.cache

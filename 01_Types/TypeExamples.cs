@@ -16,13 +16,13 @@ namespace _01_Types
             int wholeNumber = 32;
             long largeWholeNumber = 64;
 
-            int newnumber = oneBytesWorth
+            int newnumber = oneBytesWorth;
 
             //-- Decimals
             //-- We put f's at the end of floats to distinguish it as a float
             float floatexample = 1.234456f;
             double doubleexample = 1.23456d;
-            decimal decimalexample = 1.234458694;
+            decimal decimalexample = 1.23456564m;
 
             char letter = 'j';
 
