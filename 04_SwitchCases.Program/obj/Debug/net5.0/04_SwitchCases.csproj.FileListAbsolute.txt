@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\04_SwitchCases.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\04_SwitchCases.deps.json
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\04_SwitchCases.runtimeconfig.json
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\04_SwitchCases.runtimeconfig.dev.json
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\04_SwitchCases.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\ref\04_SwitchCases.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\bin\Debug\net5.0\04_SwitchCases.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.AssemblyInfo.cs
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\ref\04_SwitchCases.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\Gold Badge\CSharpFundementals\04_SwitchCases.Program\obj\Debug\net5.0\04_SwitchCases.genruntimeconfig.cache
